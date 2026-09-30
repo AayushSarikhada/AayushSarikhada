@@ -1,28 +1,44 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hello there 👋, I'm Aayush Sarikhada</h1>
-<h3 align="center">A Mobile Dev based in India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c6/4f/61/c64f61144e379948c2345137100e9c0d.jpg">
+<h1 align="center">Hi 👋, I'm Aayush Sarikhada</h1>
+<h3 align="center">Mobile Developer based in India · Android & Kotlin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayush-Sarikhada&label=Profile%20views&color=0e75b6&style=flat" alt="AayushSarikhada" /> </p>
-
-- 🔭 I’m currently working on **Gym App**
-
-- 🌱 I’m currently learning **Jetpack Compose**
-
-- 💬 Ask me about **Android, Kotlin, Swift, Java**
-
-- 📫 How to reach me **aayushsarikhada@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/aayush-sarikhada-98948b1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-sarikhada-98948b1b4" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AayushSarikhada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/aayush-sarikhada-98948b1b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aayushsarikhada@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+- 🔭 Currently building **GymBro**, a gym tracking app
+- 🎥 Also working on **[TubeScribe](https://github.com/AayushSarikhada/TubeScribe)**, a YouTube transcription tool
+- 🌱 Learning **Jetpack Compose**
+- 📈 Tracking DSA progress in **[450DSATracker](https://github.com/AayushSarikhada/450DSATracker)**
+- 💬 Ask me about **Android, Kotlin, Java, Swift**
+- 📫 Reach me at **aayushsarikhada@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayush-Sarikhada&show_icons=true&locale=en&layout=compact" alt="Aayush-Sarikhada" /></p>
+### Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aayush-Sarikhada&show_icons=true&locale=en" alt="Aayush-Sarikhada" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Sarikhada&" alt="Aayush-Sarikhada" /></p>
+### GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AayushSarikhada&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushSarikhada&show_icons=true&locale=en&theme=default" alt="GitHub stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushSarikhada" alt="GitHub streak" />
+</p>
