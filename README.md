@@ -13,29 +13,29 @@
 <br/>
 
 ```
-╭─────────────────────────────────────────────────────────────────╮
-│  ● ● ●   aayush@dev: ~                                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│  $ whoami                                                        │
-│  > Aayush Sarikhada — Software Engineer, Mobile App Development  │
-│                                                                   │
-│  $ cat focus.md                                                  │
-│  > Native Android — Kotlin, Jetpack Compose                      │
-│  > Native iOS    — Swift, SwiftUI                                │
-│  > Kotlin Multiplatform — shared logic across Android/iOS        │
-│  > Shipped 2 production kiosk software systems                   │
-│                                                                   │
-│  $ cat ai_workflow.md                                            │
-│  > Daily driver: GitHub Copilot + Claude Code (CLI & VS Code)    │
-│  > Building custom agents & skills on top of both                │
-│                                                                   │
-│  $ git log --author="Aayush" --oneline -3                        │
-│  > shipping GymBroApp — gym tracking, Kotlin Compose              │
-│  > building TubeScribe — YouTube transcription tool               │
-│  > tracking 450 DSA problems in 450DSATracker                     │
-│                                                                   │
-╰─────────────────────────────────────────────────────────────────╯
++------------------------------------------------------------------+
+|  o o o   aayush@dev: ~                                           |
++------------------------------------------------------------------+
+|                                                                  |
+|  $ whoami                                                        |
+|  > Aayush Sarikhada - Software Engineer, Mobile App Development  |
+|                                                                  |
+|  $ cat focus.md                                                  |
+|  > Native Android - Kotlin, Jetpack Compose                      |
+|  > Native iOS     - Swift, SwiftUI                               |
+|  > Kotlin Multiplatform - shared logic across Android/iOS        |
+|  > Shipped 2 production kiosk software systems                   |
+|                                                                  |
+|  $ cat ai_workflow.md                                            |
+|  > Daily driver: GitHub Copilot + Claude Code (CLI & VS Code)    |
+|  > Building custom agents & skills on top of both                |
+|                                                                  |
+|  $ git log --author="Aayush" --oneline -3                        |
+|  > shipping GymBroApp - gym tracking, Kotlin Compose             |
+|  > building TubeScribe - YouTube transcription tool              |
+|  > tracking 450 DSA problems in 450DSATracker                    |
+|                                                                  |
++------------------------------------------------------------------+
 ```
 
 <br/>
